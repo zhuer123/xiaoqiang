@@ -1,6 +1,7 @@
 <template>
     <div>
         Center
+        <!-- tiechui -add center -->
     </div>
 </template>
 
