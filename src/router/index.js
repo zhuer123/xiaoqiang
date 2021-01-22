@@ -63,10 +63,10 @@ const routes = [
     path: '/login',
     component: () => import(/* webpackChunkName: "kerwingroup" */ '../views/Login.vue')
   },
-  {
-    path: '*', // 通配符
-    redirect: '/film'
-  }
+  // {
+  //   path: '*', // 通配符
+  //   redirect: '/film'
+  // }
 ]
 
 const router = new VueRouter({
