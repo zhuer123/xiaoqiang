@@ -12,6 +12,7 @@ import Comingsoon from '../views/film/Comingsoon.vue'
 Vue.use(VueRouter) // 注册模块，已经注册了全局组件 router-view
 
 // tiechui -22222222222
+// kerwin -111111111111
 
 const routes = [
   {
